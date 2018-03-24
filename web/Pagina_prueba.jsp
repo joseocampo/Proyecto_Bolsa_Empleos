@@ -12,6 +12,6 @@
         <title>Prueba de JSP</title>
     </head>
     <body>
-        <h1>Hola, has entrado en la pagina js del proyecto bolsa empleo.</h1>
+        <h1>Hola, has entrado en la pagina js del proyecto bolsa empleos.</h1>
     </body>
 </html>
